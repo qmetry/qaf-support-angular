@@ -22,10 +22,7 @@
     </configurations>
 
 	<dependencies>
-		<dependency org="com.qmetry" name="qaf" rev="latest.integration" conf="compile->default"/>
-		<dependency org="org.aspectj" name="aspectjtools" rev="1.9.5">
-			<artifact name="aspectjtools" type="jar"></artifact>
-		</dependency>
+		<dependency org="com.qmetry" name="qaf" rev="${release.num}" conf="compile->*"/>
 		<!-- https://mvnrepository.com/artifact/com.paulhammant/ngwebdriver -->
 		<dependency org="com.paulhammant" name="ngwebdriver" rev="1.1.5"/>
 	</dependencies>
