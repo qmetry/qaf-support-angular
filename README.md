@@ -1,3 +1,7 @@
+[![License](https://img.shields.io/github/license/qmetry/qaf-support-angular.svg)](http://www.opensource.org/licenses/mit-license.php)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.qmetry/qaf-support-angular/badge.svg)](https://mvnrepository.com/artifact/com.qmetry/qaf-support-angular/latest)
+[![GitHub tag](https://img.shields.io/github/tag/qmetry/qaf-support-angular.svg)](https://github.com/qmetry/qaf-support-angular/tags)
+[![javadoc](https://javadoc.io/badge2/com.qmetry/qaf-support-angular/javadoc.svg)](https://javadoc.io/doc/com.qmetry/qaf-support-angular)
 # qaf-support-angular
 qmetry automation framework angular web support - custom locator stretegies specific to angularjs
 
